@@ -1,11 +1,11 @@
 
-=== Sun Nov 28 01:24:10 2021
+=== Mon Nov 29 15:38:51 2021
 
 Packages were changed.
 Update Mode: mergeDefaultDependencies
 
 The following packages were added:
-  com.unity.collab-proxy@1.9.0
+  com.unity.collab-proxy@1.7.1
   com.unity.ide.rider@2.0.7
   com.unity.ide.visualstudio@2.0.11
   com.unity.ide.vscode@1.2.3
@@ -40,7 +40,16 @@ The following packages were added:
   com.unity.modules.vr@1.0.0
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
-  com.unity.test-framework@1.1.29
+  com.unity.test-framework@1.1.27
   com.unity.textmeshpro@3.0.6
   com.unity.timeline@1.4.8
   com.unity.ugui@1.0.0
+
+=== Wed Dec  8 18:21:22 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.7.1 to 1.9.0
+  com.unity.test-framework from version 1.1.27 to 1.1.29
